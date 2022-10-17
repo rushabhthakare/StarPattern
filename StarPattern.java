@@ -10,7 +10,7 @@ public class StarPattern {
                 } else {
                     System.out.print(j+ " ");
                 }
-            System.out.println("rushabh");
+            System.out.println("ghghg");
         }
     }
 }
